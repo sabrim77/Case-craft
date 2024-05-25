@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Judgments</title>
+    <link rel="stylesheet" type="text/css" href="style2.css">
+</head>
+<body>
+    <header>
+        <h1>Search Judgments</h1>
+    </header>
+    
+    <div class="content">
+        <form class="search-form">
+            <input type="text" placeholder="Enter keywords...">
+            <button type="submit">Search</button>
+        </form>
+        
+        <div class="judgments">
+            <div class="judgment">
+                <h2>Judgment 1</h2>
+                <p>This is the summary of judgment 1.</p>
+            </div>
+            <div class="judgment">
+                <h2>Judgment 2</h2>
+                <p>This is the summary of judgment 2.</p>
+            </div>
+            <!-- Add more judgments here -->
+        </div>
+    </div>
+    
+    <footer>
+        &copy; 2024 Search Judgments
+    </footer>
+</body>
+</html>
